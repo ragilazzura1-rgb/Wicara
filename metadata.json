@@ -1,0 +1,6 @@
+{
+  "name": "Wicara - Indonesian Interview TTS Studio",
+  "description": "Transform interview transcripts into lifelike multi-speaker Indonesian conversations with 6 native voice models, customizable pacing, offline mode, and audio export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
